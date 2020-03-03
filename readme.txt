@@ -6,3 +6,7 @@ Data Sources: US Government Census data, US Energy Information Administration, h
 Data analysis and cleanup was performed using Pandas library in Jupyter Notebook
 
 Data visualization was made using Matplotlib
+
+Collaborators: 
+ - Yatish Mullaji: https://github.com/Yatish-Mullaji
+ - Francisco Tang Bustillos: https://github.com/Franktang2

@@ -7,6 +7,8 @@ Data analysis and cleanup was performed using Pandas library in Jupyter Notebook
 
 Data visualization was made using Matplotlib
 
+Summary webpage: https://ireneshtepa.github.io/Web-Design-Challenge/
+
 Collaborators: 
  - Yatish Mullaji: https://github.com/Yatish-Mullaji
  - Francisco Tang Bustillos: https://github.com/Franktang2

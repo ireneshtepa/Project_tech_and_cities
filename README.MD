@@ -16,10 +16,10 @@ The goal of the project was to observe how number of Tech companies in the city 
 
 ## Tools
 - Data analysis and cleanup was performed using Pandas library in Jupyter Notebook
-![pandas](Images/pandas.png)
+![pandas](Images/pandas.PNG)
 
 - Data visualization was made using Matplotlib
-![plots](Images/plots.PNG)
+![plots](Images/plots.png)
 
 ## Summary webpage
 https://ireneshtepa.github.io/Web-Design-Challenge/

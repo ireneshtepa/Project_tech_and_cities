@@ -19,7 +19,7 @@ The goal of the project was to observe how number of Tech companies in the city 
 ![pandas](Images/pandas.png)
 
 - Data visualization was made using Matplotlib
-![plots](Images/plots.png)
+![plots](Images/plots.PNG)
 
 ## Summary webpage
 https://ireneshtepa.github.io/Web-Design-Challenge/

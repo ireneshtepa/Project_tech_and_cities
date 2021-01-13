@@ -1,3 +1,6 @@
+## Summary webpage
+https://ireneshtepa.github.io/Web-Design-Challenge/
+
 ## ABOUT
 
 This project includes data exploration and cleaning process, data analysis and visualization
@@ -20,9 +23,6 @@ The goal of the project was to observe how number of Tech companies in the city 
 
 - Data visualization was made using Matplotlib
 ![plots](Images/plots.png)
-
-## Summary webpage
-https://ireneshtepa.github.io/Web-Design-Challenge/
 
 ## Collaborators
  - Yatish Mullaji: https://github.com/Yatish-Mullaji

@@ -1,6 +1,3 @@
-## Summary webpage
-https://ireneshtepa.github.io/Web-Design-Challenge/
-
 ## ABOUT
 
 This project includes data exploration and cleaning process, data analysis and visualization
